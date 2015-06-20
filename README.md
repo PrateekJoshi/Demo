@@ -1,2 +1,2 @@
-# CheckIn_System
-Check-in &amp; Check out system 
+# Demo Login & Register
+Demo Login and Register with codeigniter & bootstrap.
